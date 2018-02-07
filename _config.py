@@ -19,4 +19,4 @@ SECRET_KEY = 'myprecious'
 
 # deine the full path for the DATABASE
 
-DATABASE_PATH =  os.path.join(basedir, DATABASE)
+DATABASE_PATH = os.path.join(basedir, DATABASE)
